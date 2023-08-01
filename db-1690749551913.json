@@ -1,0 +1,70 @@
+{
+  "result": {
+    "items": [
+      {
+        "id": 1,
+        "jobId": "J8F64D9E32XV7S51",
+        "positionName": "Software Engineer",
+        "companyName": "TechCo",
+        "durationDay": 2,
+        "durationDayText": "2 gün önce",
+        "imageUrl": "https://example.com/images/J8F64D9E32XV7S51.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.05096817016602,
+        "longitude": 29.06285667419434,
+        "cityName": "İstanbul",
+        "townName": "Çengelköy Mahallesi",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": 1,
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "id": 2,
+        "jobId": "H2S83A7B19KL4JF6",
+        "positionName": "Data Analyst",
+        "companyName": "SuperCorp",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://example.com/images/H2S83A7B19KL4JF6.jpg",
+        "distance": "12,47 km yakınında",
+        "latitude": 41.10058426530927,
+        "longitude": 29.02543512841182,
+        "cityName": "İstanbul",
+        "townName": "Beşiktaş",
+        "description": "Pellentesque eget nisi nec nisl faucibus ultrices.",
+        "status": 1,
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "id": 3,
+        "jobId": "H2S83A7B19KL4JF6",
+        "positionName": "Data Analyst",
+        "companyName": "SuperCorp",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://example.com/images/H2S83A7B19KL4JF6.jpg",
+        "distance": "12,47 km yakınında",
+        "latitude": 41.10058426530927,
+        "longitude": 29.02543512841182,
+        "cityName": "İstanbul",
+        "townName": "Beşiktaş",
+        "description": "Pellentesque eget nisi nec nisl faucibus ultrices.",
+        "status": 1,
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      }
+    ],
+    "total": 3
+  }
+}
